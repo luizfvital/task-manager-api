@@ -1,8 +1,6 @@
 # Task Manager API
-A REST-based api where users can save tasks and track their status (completed or not). 
-Responses are all sent in JSON format.
+A REST-based api where users can save tasks and track their status (completed or not) with: 
 
-## Technologies used:
 * Node, Express, and MongoDB
 * Npm packages used: 
   * mongoose - modeling mongodb object with javascript/node.js
