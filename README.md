@@ -2,7 +2,7 @@
 A REST-based api where users can save tasks and track their status (completed or not). 
 Responses are all sent in JSON format.
 
-## Endpoints
+## User Endpoints
 * POST /users               - create an user
 * POST /users/login         - login
 * POST /users/logout        - logout from current section
